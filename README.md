@@ -23,17 +23,13 @@ When the user selects a directory, the application displays the messages associa
 
 ## Screenshots
 
-### Home Screen
-![Home](assets/screenshots/screen1.png)
+![Home](assets/screenshots/screen1.png.png)
 
-### Family Directory
-![Family](assets/screenshots/screen2.png)
+![Family](assets/screenshots/screen2.png.png)
 
-### Work Directory
-![Work](assets/screenshots/screen3.png)
+![Work](assets/screenshots/screen3.png.png)
 
-### University Directory
-![University](assets/screenshots/screen4.png)
+![University](assets/screenshots/screen4.png.png)
 
 ## Technologies Used
 - React Native
